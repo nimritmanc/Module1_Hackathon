@@ -2,24 +2,24 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+Our webpage is based on the theme flowers
 
 ## Team Members:
 
--   Name 1
--   Name 2
+-   Grayson
+-   Nimrit
 -   Liliane Despins
 
 ## Member Contributions:
 
-### Name 1:
+### Nimrit
 
--   Worked on [specific elements] of the webpage.
+-   Worked on the header section of the webpage.
 
-### Name 2:
+### Grayson:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for the body of the webpage.
 
 ### Name 3:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled the footer section of the webpage.
