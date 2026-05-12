@@ -20,6 +20,6 @@ Our webpage is based on the theme flowers
 
 -   Was responsible for the body of the webpage.
 
-### Name 3:
+### Lily:
 
 -   Handled the footer section of the webpage.
